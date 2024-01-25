@@ -28,7 +28,7 @@
       "position": "Postdoctoral researcher",
       "url": "http://www.imfm.si/",
       "startDate": "2023-11",
-      "endDate": "",
+      "endDate": "-",
       "summary": "Working in the project 'Computational Intensive Methods in Theoretical Computer Science, Discrete Mathematics, Combinatorial Optimization, Numerical Analysis, and Applied Algebra in Natural Sciences and Social Sciences'",
       "highlights": []
     },
@@ -36,8 +36,8 @@
       "name": "Институт математики им. С. Л. Соболева Сибирского отделения Российской академии наук (Sobolev Institute of Mathematics), Novosibirsk, Russia",
       "position": "Postdoctoral researcher",
       "url": "https://www.math.nsc.ru/",
-      "startDate": "2021-10",
-      "endDate": "2022-10",
+      "startDate": "2021",
+      "endDate": "2022",
       "summary": "Working in the Applied Abstract Algebra group",
       "highlights": []
     }
