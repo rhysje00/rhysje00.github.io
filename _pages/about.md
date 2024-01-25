@@ -20,3 +20,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a postdoctoral researcher at [Institute of Mathematics, Physics and Mechanics](http://www.imfm.si/).
+
+My research interests include algebraic graph theory, combinatorics, finite geometry, and related computational aspects.
