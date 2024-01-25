@@ -284,7 +284,7 @@ scholar:
   last_name: [Evans]
   first_name: [Rhys J.]
 
-  style: din-1505-2-alphanumeric
+  style: apa
   locale: en
 
   source: /_bibliography/
