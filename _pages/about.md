@@ -20,6 +20,3 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a postdoctoral researcher at [Institute of Mathematics, Physics and Mechanics](http://www.imfm.si/).
-
-My research interests include algebraic graph theory, combinatorics, finite geometry, and related computational aspects. My research so far has been concentrated on the search and classification of regular subgraphs in certain classes of regular graphs. I am also interested in the development of computational tools to investigate combinatorial structures.
-
