@@ -1,39 +1,48 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Rhys J Evans",
+    "label": "Postdoctoral researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "rhysjevans00@gmail.com",
+    "phone": "",
+    "url": "https://rhysje00.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Jadranska ulica 19",
+      "postalCode": "1000",
+      "city": "Ljubljana",
+      "countryCode": "Slovenia",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Inštitut za matematiko, fiziko in mehaniko (Institute of Mathematics, Physics and Mechanics), Ljubljana, Slovenia",
+      "position": "Postdoctoral researcher",
+      "url": "http://www.imfm.si/",
+      "startDate": "2023-11",
+      "endDate": "",
+      "summary": "Working in the project 'Computational Intensive Methods in Theoretical Computer Science, Discrete Mathematics, Combinatorial Optimization, Numerical Analysis, and Applied Algebra in Natural Sciences and Social Sciences'",
+      "highlights": []
+    },
+    {
+      "name": "Институт математики им. С. Л. Соболева Сибирского отделения Российской академии наук (Sobolev Institute of Mathematics), Novosibirsk, Russia",
+      "position": "Postdoctoral researcher",
+      "url": "https://www.math.nsc.ru/",
+      "startDate": "2021-10",
+      "endDate": "2022-10",
+      "summary": "Working in the Applied Abstract Algebra group",
+      "highlights": []
     }
   ],
-  "volunteer": [
+  "_volunteer": [
     {
       "organization": "People's Climate March",
       "position": "Lead Organizer",
@@ -46,18 +55,18 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Queen Mary University of London",
+      "location": "London, UK",
+      "url": "https://www.qmul.ac.uk/",
+      "area": "Algebraic graph theory",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2016",
+      "endDate": "2020",
+      "_score": "10",
+      "_courses": ["Theory of Relativity"]
     }
   ],
-  "awards": [
+  "_awards": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -66,7 +75,7 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
+  "_certificates": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -110,7 +119,7 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
+  "_publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -133,7 +142,7 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
-  "skills": [
+  "_skills": [
     {
       "name": "Physics",
       "level": "Master",
@@ -150,8 +159,8 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Mandarin",
+      "fluency": "HSK 4",
       "icon": ""
     },
     {
@@ -162,19 +171,29 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Graph theory",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Symmetries of graphs",
+        "Computational methods",
+        "Cayley graphs",
+        "Strongly regular graphs",
+        "Distance-regular graphs",
+        "Spectra of graphs",
+        "Designs and codes in graphs"
+      ]
+    },
+    {
+      "name": "Computational tools for discrete mathematics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "GAP",
+        "Magma",
+        "SageMath"
       ]
     }
   ],
-  "references": [
+  "_references": [
     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
@@ -186,7 +205,7 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
-  "projects": [
+  "_projects": [
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
