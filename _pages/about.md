@@ -19,9 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher at [Institute of Mathematics, Physics and Mechanics](http://www.imfm.si/).
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-My research interests include algebraic graph theory, combinatorics, finite geometry, and related computational aspects. My research so far has been concentrated on the search and classification of regular subgraphs in certain classes of regular graphs. I am also interested in the development of computational tools to investigate combinatorial structures.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-
-Previously, I worked at [Sobolev Institute of Mathematics](https://math.nsc.ru/), in the Applied Abstract Algebra group led by Alexander Mednykh. I received my PhD in Mathematics at [Queen Mary University of London](https://www.qmul.ac.uk/) in 2020, under the supervision of Professor [Leonard H. Soicher](https://webspace.maths.qmul.ac.uk/l.h.soicher/). 
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
