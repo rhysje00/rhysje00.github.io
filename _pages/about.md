@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: none
+subtitle: <b>rhysjevans00@gmail.com</b>
 
 profile:
   align: right
