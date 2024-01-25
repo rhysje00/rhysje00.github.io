@@ -282,7 +282,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 
 scholar:
   last_name: [Evans]
-  first_name: [Albert, A.]
+  first_name: [Rhys, R.]
 
   style: apa
   locale: en
