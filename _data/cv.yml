@@ -2,96 +2,114 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Rhys J. Evans
+#    - name: Date of Birth
+#      value: 23rd December 1993
+    - name: Email
+      value: rhysjevans00@gmail.com  
+#    - name: Languages
+#      value: English, Mandarin (basic)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Queen Mary University of London, London, UK
+      year: 2016-2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Thesis titled <em>On regular induced subgraphs of edge-regular graphs</em>
+        - Supervised by Professor <a href="https://webspace.maths.qmul.ac.uk/l.h.soicher/">Leonard H. Soicher</a>
 
-- title: Experience
+    - title: MMath
+      institution: University of Warwick, Coventry, UK
+      year: 2012-2016
+      description:
+        - Dissertation titled <em>The Combinatorics of Weighted Perfect Matches</em>
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+
+- title: Academic Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Researcher
+      institution: Sobolev Institute of Mathematics, Novosibirsk, Russia
+      year: 2021-2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Part of the Applied Abstract Algebra research group
+        - Led by Professor Alexander Mednykh
+    - title: PhD Researcher
+      institution: Queen Mary University of London, London, UK
+      year: 2016-2020
       description:
-        - Description 1.
-        - Description 2.
+        - Collaborated with experts in algebraic graph theory to publish joint research
+        - Presented to colleagues both in the UK and abroad
+        - Developed software to aid research, which has been made available to wider research community
+        - Participated in professional development courses, covering research planning and teaching
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching assistant 
+      institution: Queen Mary University of London, London, UK
+      year: 2017-2019
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
+        - Led classes of 10-20 students, teaching topics introduced in weekly lectures
+        - Marked, organised and assisted in writing weekly homework assignments
+        - Taught <em>Probability</em>, <em>Calculus I</em> and <em>Calculus II</em> (1st year undergraduate)
+    - title: Demonstrator
+      institution: Queen Mary University of London, London, UK
+      year: 2017-2019
+      description:
+        - Assisted in classes of 10-20 students, teaching topics introduced in weekly lectures
+        - Marked, organised and assisted in writing weekly homework assignments
+        - Taught <em>Linear Programming and Games</em> (2nd year undergraduate) and <em>Combinatorics</em> (3rd year undergraduate)
+    - title: Supervisor
+      institution: University of Warwick, Coventry, UK
+      year: 2015-2016
+      description: 
+        - Led weekly meetings with small groups of students (1st year undergraduate)
+        - Marked homework assignments and discussed topics introduced in weekly lectures
+     
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/gap-packages/agt">AGT</a>
+      year: 2020-present
+      description: A GAP package for computations in algebraic graph theory
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+
+
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 1921
+#      items: 
+#        - Nobel Prize in Physics 
+#        - Matteucci Medal
+#    - year: 2029
+#      items: 
+#        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Algebraic graph theory
+      items: 
+        - Interested in regularity, tranisitivity and spectral properties of graphs
+        - So far, I have concentrated on the classification and search for certain graphs with regular subgraphs.
+        - For example, see <a href="/projects/neumaier_graphs/">Neumaier graphs</a>
+    - title: Computational tools for graph theory
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Working on the development of software for the inspection of graphs and their algebraic properties
+        - Currently focused on the development of the GAP package, <a href="/projects/agt/">AGT</a>
 
-- title: Other Interests
+- title: Other Qualifications
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Teaching:</u> 120-hour premier TEFL course, including teaching methodology, self-observation and teaching large classes modules
+    - <u>Languages:</u> Mandarin (HSK 4)

@@ -1,34 +1,91 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"goryainov":
+  - firstname: ["Sergey", "S.", "S. V.", "Sergey V."]
+    url: https://sgoryainov.github.io/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"konstantinova":
+  - firstname: ["Elena", "E.", "E. V.", "Elena V."]
+    url: https://ekonsta.github.io/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"gavrilyuk":
+  - firstname: ["Alexander", "A.", "A. L.", "Alexander L."]
+    url: https://sites.google.com/view/alg-/home
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"panasenko":
+  - firstname: ["Dmitry", "D.", "D. I.", "Dmitry I."]
+    url: https://www.researchgate.net/profile/Dmitry-Panasenko
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"mednykh":
+  - firstname: ["Alexander", "A.", "A. D.", "Alexander D."]
+    url: https://www.researchgate.net/profile/Alexander-Mednykh
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"vorobev":
+  - firstname: ["Konstantin", "K."]
+    url: https://www.researchgate.net/profile/Konstantin-Vorobev
+    
+"abiad":
+  - firstname: ["Aida", "A."]
+    url: https://research.tue.nl/en/persons/aida-abiad-monge
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"castryck":
+  - firstname: ["Wouter", "W."]
+    url: https://homes.esat.kuleuven.be/~wcastryc/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"de beule":
+  - firstname: ["Jan", "J."]
+    url: http://homepages.vub.ac.be/~jdbeule        
+  
+"de boeck":
+  - firstname: ["Maarten", "M."]
+    url: https://www.researchgate.net/scientific-contributions/Maarten-De-Boeck-77661434
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"de bruyn":
+  - firstname: ["Bart", "B."]
+    url: https://cage.ugent.be/~bdb/
+
+"dhaeseleer":
+  - firstname: ["Jozefien", "J."]
+    url: https://cage.ugent.be/~jmdhaese/
+
+"group":
+  - firstname: ["The GAP" ]
+    url: https://www.gap-system.org
+
+"greaves":
+  - firstname: ["Gary", "G.","G. R. W.","Gary R. W."]
+    url: https://personal.ntu.edu.sg/gary/
+
+"jonusas":
+  - firstname: [ "Julius", "J."]
+    url: http://julius.jonusas.work/
+
+"koolen":
+  - firstname: ["Jack", "J.", "J. H.","Jack H."]
+    url: http://staff.ustc.edu.cn/~koolen/
+ 
+"mitchell":    
+  - firstname: ["James", "J.", "J. D.","James D."]  
+    url: https://jdbm.me/   
+    
+"neumaier": 
+  - firstname: ["Arnold", "A."]   
+    url: https://www.mat.univie.ac.at/~neum/
+
+"soicher":
+  - firstname: [ "Leonard", "L", "L. H.", "Leonard H."]
+    url: https://webspace.maths.qmul.ac.uk/l.h.soicher/
+    
+"tsalakou": 
+  - firstname: ["Maria","M."]
+    url: https://mariatsalakou.github.io/    
+    
+"wilson":
+  - firstname: ["Wilf","W.","W. A.","Wilf A."]
+    url: https://wilf.me/
+    
+"young":
+  - firstname: ["Michael", "M.","M. C.","Michael C."]
+    url: https://mct25.host.cs.st-andrews.ac.uk/
+    
+"zeijlemaker":
+  - firstname: ["Sjanne", "S."]
+    url: https://www.researchgate.net/scientific-contributions/Sjanne-Zeijlemaker-2182110422

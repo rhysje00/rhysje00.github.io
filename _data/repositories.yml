@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rhysje00
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - rhysje00/agt
+  - gap-system/gap
+  - gap-packages/agt
+
