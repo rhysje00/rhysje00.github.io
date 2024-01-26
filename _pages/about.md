@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher at the[Institute of Mathematics, Physics and Mechanics](http://www.imfm.si/).
+I am a postdoctoral researcher at the [Institute of Mathematics, Physics and Mechanics](http://www.imfm.si/).
 
 My research interests include algebraic graph theory, combinatorics, finite geometry, and related computational aspects.
 
