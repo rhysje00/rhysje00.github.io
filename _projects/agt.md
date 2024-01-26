@@ -7,7 +7,7 @@ importance: 1
 category: dev
 ---
 
-The AGT (algebraic graph theory) package {% cite AGT_2020 --file agt_project %} is a package available in GAP {% cite GAP_4.11.1 --file agt_project %}, which is still at an early stage of development. The official release version of the AGT package is available in the standard distribution of GAP
+The AGT (algebraic graph theory) package {% cite AGT_2020 --file agt_project %} is a package available in GAP {% cite GAP_4.11.1 --file agt_project %}, which is still at an early stage of development. The official release version of the AGT package is available in the standard distribution of GAP.
 
 The AGT package contains a methods used for the determination of  various algebraic and regularity properties of graphs, as well as certain substructures of graphs. The package also contains a library of strongly regular graphs (35000+ graphs), intended to be a useful resource for computational experiments. 
 
