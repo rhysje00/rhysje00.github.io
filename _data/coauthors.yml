@@ -58,6 +58,10 @@
   - firstname: [ "Julius", "J."]
     url: http://julius.jonusas.work/
 
+"knauer":
+  - firstname: [" Kolja", "K."]
+    url: https://www.ub.edu/comb/koljaknauer/
+
 "koolen":
   - firstname: ["Jack", "J.", "J. H.","Jack H."]
     url: http://staff.ustc.edu.cn/~koolen/
@@ -70,18 +74,42 @@
   - firstname: ["Arnold", "A."]   
     url: https://www.mat.univie.ac.at/~neum/
 
+"potocnik":
+  - firstname: [ "Primož", "P."]
+    url: https://primoz.potocnik.xyz/
+
+"shalaginov":
+  - firstname: ["Leonid", "L."]
+    url: https://www.researchgate.net/profile/Leonid-Shalaginov
+
 "soicher":
   - firstname: [ "Leonard", "L", "L. H.", "Leonard H."]
     url: https://webspace.maths.qmul.ac.uk/l.h.soicher/
+
+"spiga":
+  - firstname: ["Pablo", "P."]
+    url: https://en.unimib.it/pablo-spiga
     
 "tsalakou": 
   - firstname: ["Maria","M."]
     url: https://mariatsalakou.github.io/    
-    
+
+"verret":
+  - firstname: ["Gabriel", "G"]
+    url: https://profiles.auckland.ac.nz/g-verret
+
+"vorobev":
+  - firstname: ["Konstantin", "K."]
+    url: https://www.researchgate.net/profile/Konstantin-Vorobev
+
 "wilson":
   - firstname: ["Wilf","W.","W. A.","Wilf A."]
     url: https://wilf.me/
-    
+
+"wilson":
+  - firstname: ["Steve", "S."]
+    url: https://www.researchgate.net/profile/Steve-Wilson-12
+
 "young":
   - firstname: ["Michael", "M.","M. C.","Michael C."]
     url: https://mct25.host.cs.st-andrews.ac.uk/
@@ -89,3 +117,7 @@
 "zeijlemaker":
   - firstname: ["Sjanne", "S."]
     url: https://www.researchgate.net/scientific-contributions/Sjanne-Zeijlemaker-2182110422
+
+"group":
+  - firstname: ["The GAP"]
+    url: https://www.gap-system.org/

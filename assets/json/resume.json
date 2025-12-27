@@ -3,15 +3,15 @@
     "name": "Rhys J. Evans",
     "label": "Postdoctoral researcher",
     "image": "",
-    "email": "rhysjevans00@gmail.com",
+    "email": "rhysjohn.evans@sydney.edu.au",
     "phone": "",
     "url": "",
     "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Ljubljana",
-      "countryCode": "Sloveina",
+      "city": "Sydney",
+      "countryCode": "Australia",
       "region": ""
     },
      "profiles": [
@@ -23,6 +23,15 @@
     ]
    },
   "work": [
+    {
+      "name": " Inštitut za matematiko, fiziko in mehaniko, Ljubljana, Slovenia",
+      "position": "Postdoctoral Researcher",
+      "url": "",
+      "startDate": "2023",
+      "endDate": "2025",
+      "summary": "",
+      "highlights": ["Part of the project 'Computationally Intensive Mathematical Methods'"]
+    },
     {
       "name": "Sobolev Institute of Mathematics, Novosibirsk, Russia",
       "position": "Postdoctoral Researcher",
@@ -80,7 +89,7 @@
       "startDate": "2012",
       "endDate": "2016",
       "score": "",
-      "courses": ["Dissertation titled <em>The Combinatorics of Weighted Perfect Matches</em>"]
+      "courses": ["Dissertation titled <em>The Combinatorics of Weighted Perfect Matchings</em>"]
     }
   ],
   "awards": [
@@ -175,11 +184,11 @@
     // }
   ],
   "languages": [
-    {
-      "language": "Mandarin",
-      "fluency": "HSK 4",
-      "icon": ""
-    }
+    // {
+    //   "language": "Mandarin",
+    //   "fluency": "HSK 4",
+    //   "icon": ""
+    // }
   ],
   "interests": [
     // {

@@ -5,5 +5,5 @@ repo_description_lines_max: 2
 
 github_repos:
   - rhysje00/agt
-  - rhysje00/grsyli
+  - rhysje00/graphsym
   - gap-packages/agt

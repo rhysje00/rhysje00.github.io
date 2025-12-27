@@ -32,4 +32,26 @@
   url: https://www.sciencedirect.com/journal/journal-of-combinatorial-theory-series-a
   
 "DM":
-  url: https://www.sciencedirect.com/journal/discrete-mathematics    
+  url: https://www.sciencedirect.com/journal/discrete-mathematics   
+
+"JCD":
+  url: https://onlinelibrary.wiley.com/journal/15206610
+
+"Zenodo":
+  url: https://zenodo.org/
+  color: "#2698BA"  
+
+"JAC":
+  url: https://link.springer.com/journal/10801
+
+"AMC":
+  url: https://amc-journal.eu/index.php/amc  
+
+"JSC":
+  url: https://www.sciencedirect.com/journal/journal-of-symbolic-computation
+
+"JCTB":
+  url: https://www.sciencedirect.com/journal/journal-of-combinatorial-theory-series-b
+
+"ADAM":
+  url: https://adam-journal.eu/index.php/ADAM
