@@ -7,3 +7,29 @@
 
 "Vision":
   color: "#009f36"
+
+"arXiv":
+  url: https://arxiv.org/archive/math
+  color: "#B71C1C"
+
+"DCC":
+  url: https://www.springer.com/journal/10623
+
+"EJC":
+  url: https://www.sciencedirect.com/journal/european-journal-of-combinatorics
+
+"E-JC":
+  url: https://www.combinatorics.org/
+  
+"GAP":
+  url: https://www.gap-system.org/
+  color: "#2698BA"  
+
+"LMS":
+  url: https://www.lms.ac.uk/
+  
+"JCTA":
+  url: https://www.sciencedirect.com/journal/journal-of-combinatorial-theory-series-a
+  
+"DM":
+  url: https://www.sciencedirect.com/journal/discrete-mathematics    
