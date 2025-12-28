@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "...both research and development.",
+          description: "Research, development and datasets.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -42,11 +42,26 @@ ninja.data = [{
           description: "A GAP package",
           section: "Projects",handler: () => {
               window.location.href = "/projects/agt/";
+            },},{id: "projects-generation-enumeration",
+          title: 'Generation / enumeration',
+          description: "Computational generation of graphs and more",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/comb_gen/";
+            },},{id: "projects-graph-datasets",
+          title: 'Graph datasets',
+          description: "Collections of graphs",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/graph_data/";
             },},{id: "projects-graphsym",
           title: 'GraphSym',
           description: "A GAP library",
           section: "Projects",handler: () => {
               window.location.href = "/projects/graphsym/";
+            },},{id: "projects-other-data",
+          title: 'Other data',
+          description: "Other objects I have computed",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/misc_data/";
             },},{id: "projects-neumaier-graphs",
           title: 'Neumaier graphs',
           description: "New constructions and properties",
