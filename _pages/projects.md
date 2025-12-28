@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: ...both research and development.
+description: Research, development and datasets.
 nav: true
 nav_order: 3
-display_categories: [res, dev]
+display_categories: [res, dev, dat]
 horizontal: true
 ---
 

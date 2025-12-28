@@ -2,7 +2,7 @@
 layout: page
 title: AGT
 description: A GAP package
-img: assets/img/gaplogo-notext.svg
+img: assets/img/gaplogo-notext-dark.png
 importance: 1
 category: dev
 ---

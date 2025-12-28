@@ -2,7 +2,7 @@
 layout: page
 title: GraphSym
 description: A GAP library
-img: assets/img/gaplogo-notext.svg
+img: assets/img/gaplogo-notext-dark.png
 importance: 2
 category: dev
 ---

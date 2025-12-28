@@ -2,7 +2,7 @@
 layout: page
 title: Neumaier graphs
 description: New constructions and properties
-img: assets/img/srgimages-figure1.jpg
+img: assets/img/clique.png
 importance: 1
 category: res
 ---
@@ -145,18 +145,18 @@ Downloads
 Parameters             | Description                                                                    | Downloads (#graphs)          |
 --------------------   | ----------------------------------------------------------------------------   | --------------------------   |
 (16, 9, 4; 2, 4)       | Unique smallest, vertex-transitive {% cite EGP_2019 --file neumaier_project %} | [gap][16g], [mat][16m] (1)   |
-(24, 8, 2; 1, 4)       | 4 vertex-transitive, 1 diameter 3 {% cite GK_2018b EGKM_2021 --file neumaier_project %}                                                                                                      | [gap][24g], [mat][24m] (6)   |
+(24, 8, 2; 1, 4)       | 4 vertex-transitive, 1 diameter 3 {% cite GK_2018b EGKM_2023 --file neumaier_project %}                                                                                                      | [gap][24g], [mat][24m] (6)   |
 (28, 9, 2; 1, 4)       | 2 vertex-transitive, {% cite GK_2018a --file neumaier_project %}               | [gap][28g], [mat][28m] (4)   |
-(40, 12, 2; 1, 4)      | 1 vertex-transitive, {% cite EGKM_2021 --file neumaier_project %}              | [gap][40g], [mat][40m] (1)   |
+(40, 12, 2; 1, 4)      | 1 vertex-transitive, {% cite EGKM_2023 --file neumaier_project %}              | [gap][40g], [mat][40m] (1)   |
 (52, 15, 2; 1, 4)      | 1 vertex-transitive, {% cite GK_2018a --file neumaier_project %}               | NA (1)  |
 (64, 35, 18; 4, 8)     | {% cite EGP_2019 --file neumaier_project %}                                    | NA (>2)  |
-(65, 16, 3; 1, 5)      | 1 vertex-transitive, {% cite EGKM_2021 ACDKZ_2023 --file neumaier_project %}   | [gap][65g], [mat][65m] (1)   |
-(78, 17, 4; 1, 6)      | 8 vertex-transitive, {% cite EGKM_2021 --file neumaier_project %}              | [gap][78g], [mat][78m] (8)   |
-(168, 27, 6; 1, 8)     | 1 vertex-transitive, {% cite EGKM_2021 --file neumaier_project %}              | NA  (12)  |
+(65, 16, 3; 1, 5)      | 1 vertex-transitive, {% cite EGKM_2023 ACDKZ_2023 --file neumaier_project %}   | [gap][65g], [mat][65m] (1)   |
+(78, 17, 4; 1, 6)      | 8 vertex-transitive, {% cite EGKM_2023 --file neumaier_project %}              | [gap][78g], [mat][78m] (8)   |
+(168, 27, 6; 1, 8)     | 1 vertex-transitive, {% cite EGKM_2023 --file neumaier_project %}              | NA  (12)  |
 (185, 40, 3; 1, 5)     | 1 vertex-transitive, {% cite ACDKZ_2023 --file neumaier_project %}             | NA  (1)  |
-(250, 33, 8; 1, 10)    | 1 vertex-transitive, {% cite EGKM_2021 --file neumaier_project %}              | NA  (16)  |
+(250, 33, 8; 1, 10)    | 1 vertex-transitive, {% cite EGKM_2023 --file neumaier_project %}              | NA  (16)  |
 (256, 135, 70; 8, 16)  | {% cite EGP_2019 --file neumaier_project %}                                    | NA  (>2)  |
-(310, 39, 8; 1, 10)    | 1 vertex-transitive, {% cite EGKM_2021 --file neumaier_project %}              | [gap][310g], [mat][310m] (1) |
+(310, 39, 8; 1, 10)    | 1 vertex-transitive, {% cite EGKM_2023 --file neumaier_project %}              | [gap][310g], [mat][310m] (1) |
 
 <div class="datatable-end"></div>  
 ---

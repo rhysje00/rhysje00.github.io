@@ -23,7 +23,7 @@
   
 "GAP":
   url: https://www.gap-system.org/
-  color: "#2698BA"  
+  color: "#1B7B31"  
 
 "LMS":
   url: https://www.lms.ac.uk/
@@ -39,7 +39,7 @@
 
 "Zenodo":
   url: https://zenodo.org/
-  color: "#2698BA"  
+  color: "#1B7B31"  
 
 "JAC":
   url: https://link.springer.com/journal/10801
