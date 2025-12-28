@@ -2,7 +2,7 @@
 layout: page
 title: Neumaier graphs
 description: New constructions and properties
-img: assets/img/clique.png
+img: assets/img/tetrahedron.svg
 importance: 1
 category: res
 ---
