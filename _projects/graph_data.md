@@ -75,7 +75,7 @@ In the table below I list the datasets of graphs I have currently been involved 
 <br>
 <div class="datatable-begin"></div>
 
-Dataset             | Description                                                                    | Access           |
+Name             | Description                                                                    | Access           |
 --------------------   | ----------------------------------------------------------------------------   | --------------------------   |
 Cubic Cayley graphs       | Complete for orders 4-5000 | [4-5000](https://doi.org/10.5281/zenodo.15775470)   |
 Quartic Cayley graphs | Complete for orders 5-1025                                              | [5-1025](https://doi.org/10.5281/zenodo.15775678) |
@@ -97,7 +97,7 @@ This list does not contain some well-known collections of graphs found online, b
 <br>
 <div class="datatable-begin"></div>
 
-Dataset             | Description                                                                    | Access           |
+Name             | Description                                                                    | Access           |
 --------------------   | ----------------------------------------------------------------------------   | --------------------------   |
 House of Graphs      | A database of small graphs | [link](https://houseofgraphs.org/), [meta](https://houseofgraphs.org/meta-directory)   |
 PHOEG web UI      | A web UI to search for small graphs | [link](https://phoeg.umons.ac.be/phoeg/)   |

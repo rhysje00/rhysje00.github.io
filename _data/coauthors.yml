@@ -121,3 +121,15 @@
 "group":
   - firstname: ["The GAP"]
     url: https://www.gap-system.org/
+
+"cameron":
+  - firstname: ["Peter", "P.", "Peter J.", "P. J."]
+    url: https://cameroncounts.github.io/web/
+
+"bailey":
+  - firstname: ["Rosemary", "R.", "Rosemary A.", "R. A."]
+    url: https://rabailey23.github.io/web/
+
+"betten":
+  - firstname: ["Anton", "A."]
+    url: https://math.sci.kuniv.edu.kw/people/faculty/anton-betten
