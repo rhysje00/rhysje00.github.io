@@ -59,7 +59,7 @@ ninja.data = [{
               window.location.href = "/projects/graphsym/";
             },},{id: "projects-other-data",
           title: 'Other data',
-          description: "Other objects I have computed",
+          description: "Collections of miscellaneous objects",
           section: "Projects",handler: () => {
               window.location.href = "/projects/misc_data/";
             },},{id: "projects-neumaier-graphs",
