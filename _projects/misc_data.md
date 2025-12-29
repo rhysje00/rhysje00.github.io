@@ -41,7 +41,7 @@ The table below contains miscellaneous objects I have constructed during my rese
 Name             | Description                                                                    | Access           |
 --------------------   | ----------------------------------------------------------------------------   | --------------------------   |
 Sylvester designs      | Contains all Sylvester designs with automorphism group of size at least 20, as GAP designs {%cite DESIGN_2019 --file misc_data %}. I used {%cite BCSW_2020 --file misc_data %}, {%cite S_2023 --file misc_data %} and {%cite ORBITER --file misc_data %} to construct these designs.| [gap](/download/SylvesterDesigns.g)|
-Ree unital on $$^2G_2(27)$$      | The blocks of the Ree unital defined on $$^2G_2(27)$$. Each line of the txt file contains space-separated integers that defined a block.   | [txt](/download/ReeUnital_27_allblocks.txt)(79MB)   |
+Ree unital on $$^2G_2(27)$$      | The blocks of the Ree unital defined on $$^2G_2(27)$$. Each line of the txt file contains space-separated integers that defined a block.   | [zip](/download/ReeUnital_27_allblocks.txt.zip)(35MB)   |
 
 <div class="datatable-end"></div>  
 
