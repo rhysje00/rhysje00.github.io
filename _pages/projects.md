@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Research
 permalink: /projects/
-description: Research, development and datasets.
+description: Projects and resources for research, development and datasets.
 nav: true
 nav_order: 3
 display_categories: [res, dev, dat]
