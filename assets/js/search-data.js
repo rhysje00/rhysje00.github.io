@@ -124,6 +124,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=ZNACM_4AAAAJ", "_blank");
         },
       },{
+        id: 'social-scopus',
+        title: 'Scopus',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=57210116519", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
