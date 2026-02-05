@@ -102,6 +102,7 @@ Name             | Description                                                  
 House of Graphs      | A database of small graphs | [link](https://houseofgraphs.org/), [meta](https://houseofgraphs.org/meta-directory)   |
 PHOEG web UI      | A web UI to search for small graphs | [link](https://phoeg.umons.ac.be/phoeg/)   |
 Vertex-transitive graphs    | Complete for orders 10-47 | [link](https://doi.org/10.5281/zenodo.4010122)   |
+Edge-transitive 4-valent graphs    | Up to order 512, complete for symmetric and half-arc-transitive cases | [link](https://jan.ucc.nau.edu/~swilson/C4FullSite/index.html)   |
 
 
 <br>
