@@ -133,3 +133,11 @@
 "betten":
   - firstname: ["Anton", "A."]
     url: https://math.sci.kuniv.edu.kw/people/faculty/anton-betten
+
+"ryabov":
+  - firstname: ["Grigory", "G."]
+    url: https://www.researchgate.net/profile/Grigory-Ryabov
+
+"zhao":
+  - firstname: ["Da", "D."]
+    url: https://www.researchgate.net/profile/Da-Zhao-11    
