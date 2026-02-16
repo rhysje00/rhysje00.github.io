@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2025-12-31'
+  last_updated: '2026-02-16'
 papers:
   ZNACM_4AAAAJ:2osOgNQ5qMEC:
-    citations: 5
+    citations: 6
     title: On regular induced subgraphs of edge-regular graphs.
     year: '2020'
   ZNACM_4AAAAJ:9yKSN-GCB0IC:
@@ -10,7 +10,7 @@ papers:
     title: Equitable 2-partitions of the Johnson graphs J (n, 3)
     year: '2025'
   ZNACM_4AAAAJ:IjCSPb-OGe4C:
-    citations: 14
+    citations: 15
     title: The smallest strictly Neumaier graph and its generalisations
     year: '2019'
   ZNACM_4AAAAJ:Tyk-4Ss8FVUC:
@@ -21,8 +21,12 @@ papers:
     citations: 2
     title: Bounds for regular induced subgraphs of strongly regular graphs
     year: '2023'
+  ZNACM_4AAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: On Neumaier Cayley graphs
+    year: '2026'
   ZNACM_4AAAAJ:d1gkVwhDpl0C:
-    citations: 7
+    citations: 8
     title: A general construction of strictly Neumaier graphs and a related switching
     year: '2023'
   ZNACM_4AAAAJ:u-x6o8ySG0sC:
