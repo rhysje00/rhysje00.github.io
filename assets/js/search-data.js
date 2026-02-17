@@ -72,7 +72,7 @@ ninja.data = [{
         title: 'arXiv',
         section: 'Socials',
         handler: () => {
-          window.open("https://arxiv.org/a/http://arxiv.org/a/evans_r_3.html", "_blank");
+          window.open("https://arxiv.org/a/evans_r_3.html", "_blank");
         },
       },{
         id: 'social-cv',
