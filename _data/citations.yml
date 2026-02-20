@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-02-20'
 papers:
   ZNACM_4AAAAJ:2osOgNQ5qMEC:
-    citations: 6
+    citations: 7
     title: On regular induced subgraphs of edge-regular graphs.
     year: '2020'
   ZNACM_4AAAAJ:9yKSN-GCB0IC:
@@ -26,7 +26,7 @@ papers:
     title: On Neumaier Cayley graphs
     year: '2026'
   ZNACM_4AAAAJ:d1gkVwhDpl0C:
-    citations: 8
+    citations: 7
     title: A general construction of strictly Neumaier graphs and a related switching
     year: '2023'
   ZNACM_4AAAAJ:u-x6o8ySG0sC:
