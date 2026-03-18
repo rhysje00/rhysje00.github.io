@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-G'day! I am a [Magma](https://magma.maths.usyd.edu.au/magma/) research fellow working in the [Comptutational algebra group](https://magma.maths.usyd.edu.au/group/) at the [University of Sydney, School of Mathematics and Statistics](https://www.maths.usyd.edu.au/) 
+G'day! I am a [Magma](https://magma.maths.usyd.edu.au/magma/) research fellow working in the [Computational algebra group](https://magma.maths.usyd.edu.au/group/) at the [University of Sydney, School of Mathematics and Statistics](https://www.maths.usyd.edu.au/) 
 
 My research interests include algebraic graph theory, combinatorics, finite geometry, and related computational aspects. 
 
