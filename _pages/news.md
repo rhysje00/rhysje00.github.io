@@ -1,7 +1,8 @@
-<!-- ---
+---
 layout: page
-title: news
+title: News
+nav: false
 permalink: /news/
 ---
 
-{% include news.liquid %} -->
+{% include news.liquid %} 
