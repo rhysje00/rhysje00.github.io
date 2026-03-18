@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-agt",
+        },{id: "news-magma-has-a-new-logo",
+          title: 'Magma has a new logo!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-the-magma-issue-tracker-is-now-on-github",
+          title: 'The Magma issue tracker is now on github!',
+          description: "",
+          section: "News",},{id: "news-i-am-now-working-in-the-magma-group-in-sydney",
+          title: 'I am now working in the Magma group in Sydney.',
+          description: "",
+          section: "News",},{id: "projects-agt",
           title: 'AGT',
           description: "A GAP package",
           section: "Projects",handler: () => {
