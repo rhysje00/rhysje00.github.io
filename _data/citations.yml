@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-03-23'
 papers:
   ZNACM_4AAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -21,6 +21,10 @@ papers:
     citations: 2
     title: Bounds for regular induced subgraphs of strongly regular graphs
     year: '2023'
+  ZNACM_4AAAAJ:W7OEmFMy1HYC:
+    citations: 0
+    title: A family of Neumaier graphs containing examples with exactly five eigenvalues
+    year: '2026'
   ZNACM_4AAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: On Neumaier Cayley graphs
