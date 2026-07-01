@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-07-01'
 papers:
   ZNACM_4AAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -16,7 +16,7 @@ papers:
   ZNACM_4AAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: A census of Cayley graphs
-    year: '2025'
+    year: '2026'
   ZNACM_4AAAAJ:UeHWp8X0CEIC:
     citations: 2
     title: Bounds for regular induced subgraphs of strongly regular graphs
@@ -30,7 +30,7 @@ papers:
     title: On Neumaier Cayley graphs
     year: '2026'
   ZNACM_4AAAAJ:d1gkVwhDpl0C:
-    citations: 7
+    citations: 8
     title: A general construction of strictly Neumaier graphs and a related switching
     year: '2023'
   ZNACM_4AAAAJ:u-x6o8ySG0sC:
