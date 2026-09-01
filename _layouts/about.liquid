@@ -46,6 +46,7 @@ layout: default
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
       </h2>
       {% include news.liquid limit=true %}
+      <hr>
     {% endif %}
 
     <!-- Latest posts -->
@@ -62,6 +63,7 @@ layout: default
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
       </h2>
       {% include selected_papers.liquid %}
+      <hr>
     {% endif %}
 
     <!-- Social -->
