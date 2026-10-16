@@ -46,6 +46,23 @@
   - firstname: ["Jozefien", "J."]
     url: https://cage.ugent.be/~jmdhaese/
 
+# The bibliography's name filter transliterates the curly apostrophe to "?".
+"d?haeseleer":
+  - firstname: ["Jozefien", "J."]
+    url: https://cage.ugent.be/~jmdhaese/
+
+"khramova":
+  - firstname: ["Antonina", "A.", "Antonina P.", "A. P."]
+    url: https://www.antpkhr.page/
+
+"van veluw":
+  - firstname: ["Thijs", "T."]
+    url: https://research.ugent.be/web/person/thijs-van-veluw-1/en
+
+"yang":
+  - firstname: ["Qianqian", "Q."]
+    url: https://math.shu.edu.cn/info/1021/16419.htm
+
 "group":
   - firstname: ["The GAP" ]
     url: https://www.gap-system.org
@@ -140,4 +157,4 @@
 
 "zhao":
   - firstname: ["Da", "D."]
-    url: https://www.researchgate.net/profile/Da-Zhao-11    
+    url: https://www.researchgate.net/profile/Da-Zhao-11
