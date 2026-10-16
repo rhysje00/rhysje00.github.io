@@ -33,17 +33,47 @@
 @use "teachings";
 @use "typograms";
 
-/* Site colours: Sydney ochre darkened from #e64626 for WCAG AA contrast. */
-:root {
-  --global-theme-color: #c7351a;
-  --global-hover-color: #a52b16;
-  --global-footer-bg-color: #424242;
-  --global-footer-text-color: #f1f1f1;
+/* Ivory and teal / charcoal and sea-glass. Keep both modes explicit so the
+   gem's more-specific dark selector cannot restore the template palette. */
+:root,
+html[data-theme="light"] {
+  --global-bg-color: #faf7f2;
+  --global-card-bg-color: #f0ebe3;
+  --global-text-color: #202d2b;
+  --global-text-color-light: #52635f;
+  --global-theme-color: #006b60;
+  --global-hover-color: #00554c;
+  --global-hover-text-color: #ffffff;
+  --global-divider-color: #7b8984;
+  --global-code-bg-color: #f0ebe3;
+  --global-footer-bg-color: #202d2b;
+  --global-footer-text-color: #e4ede9;
+  --global-footer-link-color: #8edbcd;
+  --global-distill-app-color: #52635f;
+}
+
+html[data-theme="dark"] {
+  --global-bg-color: #142321;
+  --global-card-bg-color: #1e3330;
+  --global-text-color: #e4ede9;
+  --global-text-color-light: #adbfba;
+  --global-theme-color: #8edbcd;
+  --global-hover-color: #b8f0e5;
+  --global-hover-text-color: #142321;
+  --global-divider-color: #6d8580;
+  --global-code-bg-color: #1e3330;
+  --global-footer-bg-color: #142321;
+  --global-footer-text-color: #e4ede9;
+  --global-footer-link-color: #8edbcd;
+  --global-distill-app-color: #adbfba;
 }
 
 /* Do not use colour alone to identify links embedded in prose and tables. */
 article p a,
-article td a {
+article td a,
+article li a,
+article dd a,
+footer a {
   text-decoration: underline;
   text-decoration-thickness: 0.08em;
   text-underline-offset: 0.15em;
@@ -52,7 +82,26 @@ article td a {
 /* Year and project-group headings must remain visible against the page. */
 .publications h2.bibliography,
 .projects h2.category {
-  color: #595959;
+  color: var(--global-text-color-light);
+}
+
+/* Filled publication badges need a dark background even when links are pale.
+   Inline venue colours still win; their existing white text is retained. */
+.publications ol.bibliography li .abbr abbr {
+  background-color: #006b60;
+  color: #ffffff !important;
+
+  a {
+    color: #ffffff;
+  }
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+[tabindex]:focus-visible {
+  outline: 3px solid var(--global-theme-color);
+  outline-offset: 4px;
 }
 
 /* Tailwind's `.collapse` utility conflicts with the Bootstrap-compatible navbar. */
