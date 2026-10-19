@@ -33,6 +33,21 @@
 @use "teachings";
 @use "typograms";
 
+/* Site typography; keep the gem's sizes, spacing, and component styles. */
+body {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 500;
+}
+
 /* Ivory and teal / charcoal and sea-glass. Keep both modes explicit so the
    gem's more-specific dark selector cannot restore the template palette. */
 :root,
@@ -68,15 +83,20 @@ html[data-theme="dark"] {
   --global-distill-app-color: #adbfba;
 }
 
-/* Do not use colour alone to identify links embedded in prose and tables. */
+/* Reveal link underlines on hover and keyboard focus. */
 article p a,
 article td a,
 article li a,
 article dd a,
 footer a {
-  text-decoration: underline;
+  text-decoration: none;
   text-decoration-thickness: 0.08em;
   text-underline-offset: 0.15em;
+
+  &:hover,
+  &:focus-visible {
+    text-decoration: underline;
+  }
 }
 
 /* Year and project-group headings must remain visible against the page. */
