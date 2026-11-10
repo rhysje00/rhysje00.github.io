@@ -78,7 +78,7 @@ In the table below I list the datasets of graphs I have currently been involved 
 Name             | Description                                                                    | Access           |
 --------------------   | ----------------------------------------------------------------------------   | --------------------------   |
 Cubic Cayley graphs       | Complete for orders 4-5000 | [4-5000](https://doi.org/10.5281/zenodo.15775470)   |
-Quartic Cayley graphs | Complete for orders 5-1025 and order 1536 | [5-1025](https://doi.org/10.5281/zenodo.15775678), [1536 (sparse6 ZIP, 36 GB)](http://atlas.graphsym.net/Cay4val/Cay4val_1536-unique.zip) |
+Quartic Cayley graphs | Complete for orders 5-1025 and order 1536 | [5-1025](https://doi.org/10.5281/zenodo.15775678), [1536](http://atlas.graphsym.net/Cay4val/Cay4val_1536-unique.zip) |
 Minimal Cayley graphs      | Complete for orders 2-511    | [2-511](https://doi.org/10.5281/zenodo.15704803), [384](https://doi.org/10.5281/zenodo.15721425)  |
 GraphSym       | Several classes of highly symmetric graphs, and more | [link](https://graphsym.net/)   |
 Neumaier graphs     | Partial enumeration and sporadic generation     | [link](/projects/neumaier_graphs/#small-strictly-neumaier-graphs) |
@@ -102,12 +102,12 @@ Name             | Description                                                  
 House of Graphs      | A database of small graphs | [link](https://houseofgraphs.org/), [meta](https://houseofgraphs.org/meta-directory)   |
 PHOEG web UI      | A web UI to search for small graphs | [link](https://phoeg.umons.ac.be/phoeg/)   |
 Vertex-transitive graphs    | Complete for orders 10-47 | [link](https://doi.org/10.5281/zenodo.4010122)   |
-Cubic vertex-transitive graphs | Complete up to order 1280, with graph properties in SQLite and CSV formats | [Zenodo](https://doi.org/10.5281/zenodo.6576526) |
-Cubic edge-transitive graphs | Complete up to order 10000 (4858 graphs), with LCF codes and semiregular automorphism data; 98 LCF codes have unproved optimality | [census](https://fostercensus.graphsym.net/), [Zenodo](https://doi.org/10.5281/zenodo.20609902) |
+Cubic vertex-transitive graphs | Census with graph properties | [Zenodo](https://doi.org/10.5281/zenodo.6576526) |
+Cubic edge-transitive graphs | Census with LCF codes | [census](https://fostercensus.graphsym.net/), [Zenodo](https://doi.org/10.5281/zenodo.20609902) |
 Edge-transitive 4-valent graphs | Up to order 512, complete for symmetric and half-arc-transitive cases | [Wilson's list](https://jan.ucc.nau.edu/~swilson/C4FullSite/index.html) |
-Semisymmetric 4-valent graphs | Known examples up to order 512; incomplete collection, added September 2026 and more up to date than Wilson's list | [sparse6](https://graphsym.net/files/Census4valSS.s6), [details](https://graphsym.net/) |
-Automorphism group certificates for cubic vertex-transitive graphs | Certificates for 111674 graphs from the cubic vertex-transitive census up to order 1280 and cubic symmetric census up to order 2048; by Janoš Vidali, with verification by Luka Opravš | [Zenodo (corrected version)](https://doi.org/10.5281/zenodo.21802870) |
-Rotary maps and skeleton graphs | Maps up to 6000 edges (orientable) or 3000 edges (non-orientable); underlying graphs up to 3000 edges | [census](https://rotarymaps.graphsym.net/) |
+Semisymmetric 4-valent graphs | Known examples; incomplete collection | [sparse6](https://graphsym.net/files/Census4valSS.s6), [details](https://graphsym.net/) |
+Automorphism group certificates | Certificates for cubic vertex-transitive graphs | [Zenodo](https://doi.org/10.5281/zenodo.21802870) |
+Rotary maps and skeleton graphs | Regular and chiral maps and their underlying graphs | [census](https://rotarymaps.graphsym.net/) |
 
 
 <br>

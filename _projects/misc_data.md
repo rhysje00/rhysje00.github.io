@@ -58,7 +58,7 @@ In the table below I list some datasets that you might also find useful.
 Name             | Description                                                                    | Access           |
 --------------------   | ----------------------------------------------------------------------------   | --------------------------   |
 Martson Conder's homepage      | Maps on surfaces, quotients of triangle groups, symmetric graphs and polytopes.| [link](https://www.math.auckland.ac.nz/~conder/)|
-Rotary 4-maniplexes | Complete for rotation groups of order at most 5000, including regular and chiral cases; supplied as permutation representations | [Zenodo](https://doi.org/10.5281/zenodo.21109763) |
+Rotary 4-maniplexes | Census of regular and chiral examples | [Zenodo](https://doi.org/10.5281/zenodo.21109763) |
 Atlas of small regular polytopes      | All regular polytopes with at most 2000 flags (excluding 1024, 1536) | [link](https://www.abstract-polytopes.com/atlas/)|
 Atlas of regular polytopes for small almost simple groups | All regular polytopes with automorphism group being almost simple of order at most 1M | [link](https://www.math.auckland.ac.nz/~dleemans/polytopes/)|
 Extended group enumeration      | A table describing the enumeration of the groups of order at most 50,000  | [link](https://groups.quendi.de/)   |
